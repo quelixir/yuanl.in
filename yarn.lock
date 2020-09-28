@@ -2624,10 +2624,10 @@ flush-write-stream@^1.0.0:
     inherits "^2.0.3"
     readable-stream "^2.3.6"
 
-fontsource-noto-sans@^3.0.9:
-  version "3.0.9"
-  resolved "https://registry.yarnpkg.com/fontsource-noto-sans/-/fontsource-noto-sans-3.0.9.tgz#8e18a284e97e15a2db5669debc55b5b1e2709719"
-  integrity sha512-qw32UigS0QDNNw2bnp7NW9ynTycfEVdDv3VcD4RHLKR6ijYSQGyywteUJEjLouGIKKkVU6EReDcAeN4JKuJFWA==
+fontsource-noto-sans@^3.0.10:
+  version "3.0.10"
+  resolved "https://registry.yarnpkg.com/fontsource-noto-sans/-/fontsource-noto-sans-3.0.10.tgz#1fffa82a748b91c2a4c0b2d97bbd5bd7245eed8b"
+  integrity sha512-Gn8ucYOSk2p2Fzj9x4K6DMoX+bhk6nfwVD7h59QFr5uJL8ha2B5i3It9ZIy3AV1+qbgIY3kCmyx9pSWnpB85SQ==
 
 for-in@^1.0.2:
   version "1.0.2"
