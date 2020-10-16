@@ -13,6 +13,6 @@
     "fontsource-noto-sans": "^3.0.10",
     "next": "9.5.5",
     "react": "16.14.0",
-    "react-dom": "16.13.1"
+    "react-dom": "16.14.0"
   }
 }
